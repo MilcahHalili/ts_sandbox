@@ -1,0 +1,9 @@
+var myString = "Hello, World!";
+var myTemplateLiteral = "\"" + myString + "\" is the phrase we always use when learning a new language.";
+var myInt = 3;
+var myFloat = 6.4;
+var myHex = 0xf00d;
+var myOct = 484;
+var myBin = 10;
+var myBool = true;
+myBool = false;
